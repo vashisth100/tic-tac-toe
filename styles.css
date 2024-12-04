@@ -29,7 +29,7 @@ body{
     box-shadow: 0 0 1rem rgba(219, 231, 49, 0.5) ;
     font-size: 8vmin;
     color: #c9184a;
-    background-color: white;
+    background-color: ;
     transition: transform 0.5s ease;
     cursor: grab ;
 }
