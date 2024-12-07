@@ -3,9 +3,8 @@
     padding: 0;
 }
 body{
-    background: linear-gradient(to top, #1dd3b0, #affc41);
     background-size:auto;
-    color: white;
+    color: black;
     text-align: center;
 }
 .container{
@@ -27,7 +26,7 @@ body{
     height: 18vmin;
     width: 18vmin;
     border-radius: 1rem;
-    box-shadow: 0 0 1rem rgba(219, 231, 49, 0.5) ;
+    box-shadow: 10px 10px 1px rgba(29, 29, 28, 0.2) ;
     font-size: 8vmin;
     color: #c9184a;
     transition: transform 0.5s ease;
@@ -61,7 +60,7 @@ body{
 .new-game{
     padding: 1.5rem;
     border-radius: 1rem;
-    background: linear-gradient(to bottom, #9c528b, #610f7f);
+    background-color: #37271a;
     cursor: pointer;
     margin: 20px;
     font-size: 3vmin;
