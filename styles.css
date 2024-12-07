@@ -3,7 +3,8 @@
     padding: 0;
 }
 body{
-    background:black;
+    background: url("/image.png");
+    background-size: cover;
     color: white;
     text-align: center;
 }
@@ -29,7 +30,6 @@ body{
     box-shadow: 0 0 1rem rgba(219, 231, 49, 0.5) ;
     font-size: 8vmin;
     color: #c9184a;
-    background-color: ;
     transition: transform 0.5s ease;
     cursor: grab ;
 }
