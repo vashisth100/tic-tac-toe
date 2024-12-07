@@ -4,7 +4,7 @@
 }
 body{
     background: url("/image.png");
-    background-size: cover;
+    background-size:auto;
     color: white;
     text-align: center;
 }
