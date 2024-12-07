@@ -66,11 +66,14 @@ body{
     color: #a3c4f3;
     margin: 10px;
 }
-p{
-    font-size: 30px;
+footer{
+    font-size: 20px;
     margin-top: 1rem;
     margin-left: 1rem;
-    color: black;
+    color: white;
+    background-color: #354f52;
+    height: 30vmin;
+    line-height: 3.5rem;
 }
 a{
     color: red;
