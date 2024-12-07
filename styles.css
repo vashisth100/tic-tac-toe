@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background: url("/image.png");
+    background: linear-gradient(to top, #1dd3b0, #affc41);
     background-size:auto;
     color: white;
     text-align: center;
@@ -61,8 +61,18 @@ body{
 .new-game{
     padding: 1.5rem;
     border-radius: 1rem;
-    background: linear-gradient(to bottom, #969696, #67697c);
+    background: linear-gradient(to bottom, #9c528b, #610f7f);
     cursor: pointer;
     margin: 20px;
     font-size: 3vmin;
+    color: #a3c4f3;
+}
+p{
+    font-size: 30px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    color: black;
+}
+a{
+    color: red;
 }
