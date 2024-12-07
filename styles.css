@@ -52,7 +52,7 @@ body{
 } 
 .msg-container{
     height: 100vh;
-    font-size: 16vmin;
+    font-size: 10vmin;
 }
 .hide{
     display: none;
