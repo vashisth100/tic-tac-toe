@@ -8,7 +8,7 @@ body{
     text-align: center;
 }
 .container{
-    height: 70vh;
+    height: 60vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -58,13 +58,13 @@ body{
     display: none;
 }
 .new-game{
-    padding: 1.5rem;
+    padding: 1rem;
     border-radius: 1rem;
     background-color: #37271a;
     cursor: pointer;
-    margin: 20px;
     font-size: 3vmin;
     color: #a3c4f3;
+    margin: 10px;
 }
 p{
     font-size: 30px;
